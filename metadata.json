@@ -1,0 +1,8 @@
+{
+  "name": "MedRoute - Intelligent Medical Supply Distribution & Route Optimization",
+  "description": "An intelligent medical supply distribution and route optimization system applying DAA algorithms: Dijkstra, Prim's and Kruskal's MST, 0/1 Knapsack, and OSRM road routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
